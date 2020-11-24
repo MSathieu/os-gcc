@@ -708,6 +708,8 @@ x86_64-*-elf* | x86_64-*-rtems*)
 	    ;;
 	esac
 	;;
+x86_64-*-os*)
+	;;
 x86_64-*-fuchsia*)
 	tmake_file="$tmake_file t-libgcc-pic"
 	;;
