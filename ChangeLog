@@ -1,3 +1,7 @@
+2020-11-28 MSathieu
+
+	Enable stack protector, build libgcc without red zone and build crtbegin.o and crtend.o
+
 2020-11-24 MSathieu
 
 	Add support for my OS
