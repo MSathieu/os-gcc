@@ -1,3 +1,7 @@
+2020-12-22 MSathieu
+
+	Don't build kernel libgcc anymore
+
 2020-11-28 MSathieu
 
 	Enable stack protector, build libgcc without red zone and build crtbegin.o and crtend.o
